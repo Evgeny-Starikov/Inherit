@@ -8,9 +8,9 @@ public class SimpleTask extends Task {
         this.title = title;
     }
 
-    public String getTitle() {
-        return title;
-    }
+//    public String getTitle() {
+//        return title;
+//    }
 
      @Override
 
